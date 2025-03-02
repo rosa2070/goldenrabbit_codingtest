@@ -1,2 +1,2 @@
-public class Main1 {
+public class Main01 {
 }
